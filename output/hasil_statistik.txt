@@ -1,0 +1,37 @@
+============================================================
+LAPORAN STATISTIK FINAL PROJECT
+PREDIKSI HARGA MOBIL BEKAS
+============================================================
+
+1. INFORMASI DATASET
+----------------------------------------
+Jumlah data train: 1887 baris
+Jumlah data test: 472 baris
+Jumlah fitur: 238 kolom
+
+2. STATISTIK TARGET (PRICE)
+----------------------------------------
+Mean target (train): $18,500.46
+Median target (train): $17,000.00
+Std target (train): $10,243.16
+Min target (train): $500.00
+Max target (train): $48,400.00
+
+3. PERFORMA MODEL
+----------------------------------------
+Model                     R²         MAE             RMSE           
+-----------------------------------------------------------------
+Linear Regression         0.6793     $4,088.44       $5,904.32      
+Random Forest (Default)   0.6540     $4,097.71       $6,133.36      
+Random Forest (Tuned)     0.6472     $4,186.04       $6,192.59      
+
+4. MODEL TERBAIK
+----------------------------------------
+Model terbaik: Linear Regression
+R² Score: 0.6793
+MAE: $4,088.44
+
+============================================================
+File ini dibuat otomatis oleh program
+Final Project - Mini Machine Learning
+============================================================
