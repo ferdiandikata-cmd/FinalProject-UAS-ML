@@ -68,8 +68,8 @@ FinalProject/
 ### 📹 Video Dokumentasi
 [Link YouTube akan diisi]
 
-### 🔗 Link GitHub
-[Link GitHub akan diisi]
+### 🔗 Link GitHub:
+https://github.com/ferdiandikata-cmd/FinalProject-UAS-ML
 
 ### 👤 Identitas
     Nama: [FERDY ANDHIKA TANGKEALLO]
@@ -80,38 +80,11 @@ FinalProject/
 
 ## 2️⃣ **requirements.txt** (UPDATE)
   
-    pandas==2.0.3
-    numpy==1.24.3
-    matplotlib==3.7.1
-    seaborn==0.12.2
-    scikit-learn==1.3.0
-    joblib==1.3.1
-    openpyxl==3.1.2
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.3.0
+joblib==1.3.1
+openpyxl==3.1.2
 
-**Catatan:** Hapus `xgboost` karena di kode kamu tidak menggunakannya (hanya di-import untuk jaga-jaga).
-
----
-
-## 📋 **CEKLIST YANG HARUS KAMU ISI SENDIRI**
-
-| Item | Di mana? | Yang harus diisi |
-| :--- | :--- | :--- |
-| Nama | README.md & Laporan | Nama lengkap kamu |
-| NIM | README.md & Laporan | NIM kamu |
-| Kelas | README.md & Laporan | Kelas kamu |
-| Link GitHub | README.md & Laporan | Link repo GitHub setelah upload |
-| Link YouTube | README.md & Laporan | Link video setelah upload |
-| Screenshot kode | Laporan | Screenshot dari VSCode |
-| Screenshot output | Laporan | Screenshot dari terminal |
-
----
-
-## 🚀 **LANGKAH SELANJUTNYA**
-
-1. **Update README.md** → Copy-paste isi di atas, isi nama/NIM/link
-2. **Update requirements.txt** → Copy-paste isi di atas
-3. **Buat laporan** → Copy-paste kerangka ke Word/Google Docs
-4. **Tambahkan screenshot** → Ambil screenshot dari VSCode dan terminal
-5. **Export ke PDF** → Save as PDF
-6. **Upload ke GitHub** → Saya bantu ajarin kalau belum tahu
-7. **Buat video YouTube** → Saya bantu kerangka script kalau mau
