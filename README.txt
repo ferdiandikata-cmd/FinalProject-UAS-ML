@@ -66,7 +66,7 @@ FinalProject/
     python main.py
 
 ### 📹 Video Dokumentasi
-[Link YouTube akan diisi]
+https://youtu.be/hgS858vwjkU?si=P9SJvVq50OJsnkWG
 
 ### 🔗 Link GitHub:
 https://github.com/ferdiandikata-cmd/FinalProject-UAS-ML
